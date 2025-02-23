@@ -1,0 +1,149 @@
+﻿  MODEL ASSEMBLY :
+ 
+
+  6 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 8
+
+Feature number 6 (COMPONENT, id = 46) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL must follow after:
+
+Feature number 5 (SKETCH_1, id = 40) 
+  in model WALL refers to:
+
+Feature number 5 (EXTRUDE_3, id = 7624) 
+  in model BIG_GEAR#AF0 refers to:
+
+Feature number 12 (COMPONENT, id = 85) 
+  in model ASSEMBLY must follow after:
+
+Feature number 11 (COMPONENT, id = 68) 
+  in model ASSEMBLY refers to:
+
+Feature number 9 (COMPONENT, id = 51) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (COMPONENT, id = 46) 
+  in model ASSEMBLY - circle closed.
+
+
+   LOOP #  2
+
+   Depth of loop is 6
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL must follow after:
+
+Feature number 5 (SKETCH_1, id = 40) 
+  in model WALL refers to:
+
+Feature number 5 (EXTRUDE_3, id = 7624) 
+  in model BIG_GEAR#AF0 refers to:
+
+Feature number 12 (COMPONENT, id = 85) 
+  in model ASSEMBLY must follow after:
+
+Feature number 10 (COMPONENT, id = 65) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL - circle closed.
+
+
+   LOOP #  3
+
+   Depth of loop is 7
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL must follow after:
+
+Feature number 5 (SKETCH_1, id = 40) 
+  in model WALL refers to:
+
+Feature number 5 (EXTRUDE_3, id = 7624) 
+  in model BIG_GEAR#AF0 refers to:
+
+Feature number 12 (COMPONENT, id = 85) 
+  in model ASSEMBLY must follow after:
+
+Feature number 11 (COMPONENT, id = 68) 
+  in model ASSEMBLY refers to:
+
+Feature number 9 (COMPONENT, id = 51) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL - circle closed.
+
+
+   LOOP #  4
+
+   Depth of loop is 4
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL must follow after:
+
+Feature number 5 (SKETCH_1, id = 40) 
+  in model WALL refers to:
+
+Feature number 8 (COMPONENT, id = 44) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL - circle closed.
+
+
+   LOOP #  5
+
+   Depth of loop is 5
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL must follow after:
+
+Feature number 5 (SKETCH_1, id = 40) 
+  in model WALL refers to:
+
+Feature number 5 (EXTRUDE_3, id = 7624) 
+  in model BIG_GEAR#AF0 refers to:
+
+Feature number 8 (COMPONENT, id = 44) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL - circle closed.
+
+
+   LOOP #  6
+
+   Depth of loop is 8
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL must follow after:
+
+Feature number 5 (SKETCH_1, id = 40) 
+  in model WALL refers to:
+
+Feature number 5 (EXTRUDE_3, id = 7624) 
+  in model BIG_GEAR#AF0 refers to:
+
+Feature number 12 (COMPONENT, id = 85) 
+  in model ASSEMBLY must follow after:
+
+Feature number 11 (COMPONENT, id = 68) 
+  in model ASSEMBLY refers to:
+
+Feature number 9 (COMPONENT, id = 51) 
+  in model ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 44) 
+  in model ASSEMBLY refers to:
+
+Feature number 6 (EXTRUDE_1, id = 53) 
+  in model WALL - circle closed.
+
